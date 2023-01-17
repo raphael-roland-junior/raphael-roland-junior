@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Raphael Roland Júnior 😁
+## Seja bem-vindo(a) ao perfil do Raphael Roland Júnior 😀
 
  <div>
    <a href="https://github.com/raphael-roland-junior">
